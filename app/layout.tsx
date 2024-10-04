@@ -30,14 +30,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+        {/* className={`${geistSans.variable} ${geistMono.variable} antialiased`} */}
         <Provider>
           <body className={inter.className}>{children}</body>
-        </Provider> 
-        {children}
-      </body>
+        </Provider>   
     </html>
   );
 }
