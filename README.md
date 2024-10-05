@@ -1,17 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Credit
 
-## Getting Started
+The app is accredited to 'Ahmed Bouchefra' [NextAuth.js Authentication With MongoDB](https://www.mongodb.com/developer/languages/typescript/nextauthjs-authentication-mongodb/#using-the-session-provider-and-displaying-the-authentication-state) for the entire tutorial.
 
-First, run the development server:
+## Project 'Ambito'
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tutorial guide for setting up a NextAuth.js for user authentication with email and password with the following requirements:
+ - Node.js v20
+ - MongoDB Community Edition 7.0
+ 
+#### Git clone
 
-Open [https://www.mongodb.com/developer/languages/typescript/nextauthjs-authentication-mongodb/#using-the-session-provider-and-displaying-the-authentication-state](NextAuth.js Authentication With MongoDB) for the entire tutorial.
+#### npm i
+
+#### npm run dev
+
+
