@@ -9,7 +9,8 @@ Tutorial guide for setting up a NextAuth.js for user authentication with email a
  - Node.js v20
  - MongoDB Community Edition 7.0
  
-### Steps
+## Steps
+Run the following commands:-
 
 #### 1. Git clone
 
